@@ -1,0 +1,6 @@
+{
+    "name":"fltr",
+    "version":"0.0.1",
+    "description":"This extension will help you filter out unwanted words on the webpage",
+    "manifest_version":3
+}
